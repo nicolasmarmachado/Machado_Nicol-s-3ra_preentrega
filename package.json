@@ -1,0 +1,19 @@
+{
+  "name": "3_pre_entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasmarmachado/Machado_Nicol-s-3ra_preentrega.git"
+  },
+  "author": "Nicolás Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasmarmachado/Machado_Nicol-s-3ra_preentrega/issues"
+  },
+  "homepage": "https://github.com/nicolasmarmachado/Machado_Nicol-s-3ra_preentrega#readme"
+}
